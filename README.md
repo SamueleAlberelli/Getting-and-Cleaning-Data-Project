@@ -16,4 +16,5 @@ Steps to work on this course project
 3. Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
 
 Dependencies
+
 This project needs the base package for R and the stats package. 
